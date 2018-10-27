@@ -11,7 +11,7 @@ DistributionPLotter.py is used to plot pairwise feature plots.
 Classifier contains all 6 cases of the classifiers.
 
 # Results obtained
-The best performing models for the iris dataset are as follows:
+The best performing models for the iris dataset (along with errors [as predicates]) are as follows:
 LDA-ISOTROPIC - 0.04
 QDA-ISOTRPIC - 0.04
 LDA-GENERAL - 0.053
